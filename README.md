@@ -1,13 +1,20 @@
-# git-commands
-simple git commands
-git clone "file from github into pc "
-git remove -v("check local repo and git repo are in sync")
-git status ("make any changes needed for file")
-git add . 
+##### Initialize an empty Git repository
+git init
+
+##### Clone a file from GitHub into your PC
+git clone <repository_URL>
+
+##### Check if the local repository and remote repository are in sync
+git remote -v
+
+##### Check the status of files in the repository and make any necessary changes
+git status
+
+##### Add all changes to the staging area
+git add .
+
+##### Commit the changes with a descriptive message
 git commit -m "added new .py file"
-git push origin master 
 
-
-
-### git init ("used for initializing empty git repo
-## 
+##### Push the committed changes to the remote repository (origin) in the master branch
+git push origin master
