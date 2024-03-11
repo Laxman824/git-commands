@@ -18,3 +18,10 @@ git commit -m "added new .py file"
 
 ##### Push the committed changes to the remote repository (origin) in the master branch
 git push origin master
+### Option Pricing 
+https://www.quantstart.com/articles/Jump-Diffusion-Models-for-European-Options-Pricing-in-C/
+
+option pricing with Merton jump diffusion VIM code"
+reference for implementing option pricing with the Merton jump diffusion model using the Variational iteration method
+https://www.codearmo.com/python-tutorial/merton-jump-diffusion-model-python
+https://thepathisthegoalblog.wordpress.com/2019/11/12/the-merton-jump-diffusion-model-part-2/
