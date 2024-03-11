@@ -25,3 +25,11 @@ option pricing with Merton jump diffusion VIM code"
 reference for implementing option pricing with the Merton jump diffusion model using the Variational iteration method
 https://www.codearmo.com/python-tutorial/merton-jump-diffusion-model-python
 https://thepathisthegoalblog.wordpress.com/2019/11/12/the-merton-jump-diffusion-model-part-2/
+
+very useful for showing the output
+https://hilpisch.com/Python_for_Quant_Finance.html
+
+https://github.com/cantaro86/Financial-Models-Numerical-Methods/blob/master/3.1%20Merton%20jump-diffusion%2C%20PIDE%20method.ipynb
+
+## Live demo 
+https://demonstrations.wolfram.com/OptionPricesInMertonsJumpDiffusionModel/
